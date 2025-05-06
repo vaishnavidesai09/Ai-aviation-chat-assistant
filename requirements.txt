@@ -85,3 +85,6 @@ urllib3==2.3.0
 yarl==1.18.3
 zstandard==0.23.0
 python-dotenv
+langchain-google-genai>=0.0.5
+google-generativeai>=0.3.2
+google-api-core>=2.0.0
